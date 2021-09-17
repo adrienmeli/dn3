@@ -55,9 +55,6 @@ Niveau visé : **B2**
 
 
 
-# Échéances
-
-
 \begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
 \toprule
 Échéances & Description & Jours restants\\

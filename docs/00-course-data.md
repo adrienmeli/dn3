@@ -869,10 +869,6 @@ lengthy & /10/ & /\textipa{"leNT.i}/\\
 ##  Échéances 
 
 
-
-# Échéances
-
-
 \begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
 \toprule
 Échéances & Description & Jours restants\\
