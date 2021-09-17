@@ -877,7 +877,8 @@ lengthy & /10/ & /\textipa{"leNT.i}/\\
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{29/11/2021} & \cellcolor{gray!6}{Rendre l'abstract rédigé en anglais du mémoire} & \cellcolor{gray!6}{73 days}\\
+\cellcolor{gray!6}{23/09/2021} & \cellcolor{gray!6}{Prepare a reaction to the article “A dark consensus“} & \cellcolor{gray!6}{6 days}\\
+29/11/2021 & Rendre l'abstract rédigé en anglais du mémoire & 73 days\\
 \bottomrule
 \end{longtable}
 
