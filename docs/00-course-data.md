@@ -428,6 +428,13 @@ appartenir à & to belong to\\
 un tiers & a third\\
 \cellcolor{gray!6}{un veau} & \cellcolor{gray!6}{a calf}\\
 un mollet & a calf\\
+\cellcolor{gray!6}{un mémoire étudiant} & \cellcolor{gray!6}{a research paper}\\
+une entreprise & a company\\
+\addlinespace
+\cellcolor{gray!6}{une infime majorité} & \cellcolor{gray!6}{a tiny majority}\\
+jusqu'à maintenant & so far\\
+\cellcolor{gray!6}{aller à l'étranger} & \cellcolor{gray!6}{to go abroad}\\
+être indécis & to sit on a fence\\
 \bottomrule
 \end{longtable}
 
@@ -854,6 +861,23 @@ receive & /01/ & /\textipa{ri."si:v}/\\
 \cellcolor{gray!6}{schedule} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"Sed.ju:l}/}\\
 lengthy & /10/ & /\textipa{"leNT.i}/\\
 \cellcolor{gray!6}{signature} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"sIg.n@tS.@}/}\\
+\bottomrule
+\end{longtable}
+
+
+
+##  Échéances 
+
+
+
+# Échéances
+
+
+\begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
+\toprule
+Échéances & Description & Jours restants\\
+\midrule
+\cellcolor{gray!6}{29/11/2021} & \cellcolor{gray!6}{Rendre l'abstract rédigé en anglais du mémoire} & \cellcolor{gray!6}{73 days}\\
 \bottomrule
 \end{longtable}
 
