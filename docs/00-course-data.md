@@ -435,28 +435,6 @@ une entreprise & a company\\
 jusqu'à maintenant & so far\\
 \cellcolor{gray!6}{aller à l'étranger} & \cellcolor{gray!6}{to go abroad}\\
 être indécis & to sit on a fence\\
-\cellcolor{gray!6}{proche de} & \cellcolor{gray!6}{close to}\\
-\addlinespace
-prudent à l'égard de & wary of\\
-\cellcolor{gray!6}{se tramer} & \cellcolor{gray!6}{to brew}\\
-arrêter, entraver & to stunt\\
-\cellcolor{gray!6}{un outil} & \cellcolor{gray!6}{a tool}\\
-un règlement de comptes & a reckoning\\
-\addlinespace
-\cellcolor{gray!6}{au-delà} & \cellcolor{gray!6}{beyond}\\
-un stigmate & a stigma\\
-\cellcolor{gray!6}{organiser une soirée} & \cellcolor{gray!6}{to throw a party}\\
-bien que (a...) & although\\
-\cellcolor{gray!6}{bien que (e...)} & \cellcolor{gray!6}{even though}\\
-\addlinespace
-cependant (h...) & however\\
-\cellcolor{gray!6}{cependant (n...)} & \cellcolor{gray!6}{nevertheless}\\
-pourtant (y...) & yet\\
-\cellcolor{gray!6}{néanmoins} & \cellcolor{gray!6}{nonetheless}\\
-en dépit de (d...) & despite\\
-\addlinespace
-\cellcolor{gray!6}{en dépit de (i...)} & \cellcolor{gray!6}{in spite of}\\
-un PDG & a CEO\\
 \bottomrule
 \end{longtable}
 
@@ -708,20 +686,6 @@ Vantablack est utilisé par Anish Kapoor depuis 2014. & VB has been used by Kapo
 \addlinespace
 \cellcolor{gray!6}{Depuis mon enfance, j'ai toujours aimé la couleur.} & \cellcolor{gray!6}{Ever since I was a child, I've always loved colours.}\\
 La forme importe plus que la couleur & Shape matters more than colour\\
-\cellcolor{gray!6}{Avec qui habites-tu ?} & \cellcolor{gray!6}{Who do you live with?}\\
-Combien de temps cela te prend-il pour aller à l'École Estienne ? & How long does it take you to go to École Estienne?\\
-\cellcolor{gray!6}{Où habitais-tu l'année dernière ?} & \cellcolor{gray!6}{Where did you live last year?}\\
-\addlinespace
-Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l'année dernière ? & Have you already been to the MBC which opened last year?\\
-\cellcolor{gray!6}{On m'a dit hier qu'il n'y aurait pas cours la semaine prochaine} & \cellcolor{gray!6}{I was told yesterday that there would be no school next week.}\\
-S'il ne faisait pas aussi chaud, je ne serais pas aussi fatigué(e) & It it weren't that hot, I wouldn't be that tired.\\
-\cellcolor{gray!6}{Tu n'aurais pas dû lui parler} & \cellcolor{gray!6}{You shouldn't have spoken to her.}\\
-Si j'avais su, je  n'aurais pas écrit ce courriel. & If I had known, I wouldn't have written that email.\\
-\addlinespace
-\cellcolor{gray!6}{Bien que l'enseignement à distance ait des défauts, c'est toujours mieux que rien.} & \cellcolor{gray!6}{Although online teaching has drawbacks, it is still better than nothing.}\\
-Regarde ! Ils sont en train d'installer de nouveaux ordinateurs de bureau. & Look! New desktops are being installed.\\
-\cellcolor{gray!6}{De nombreux ordinateurs portables ont été donnés aux écoles pour améliorer l'enseignement.} & \cellcolor{gray!6}{Schools have been given a lot of laptops to improve teaching.}\\
-On peut cependant se demander dans quelle mesure cette initiative a été efficace. & However, one can wonder how efficient this initiative has been.\\
 \bottomrule
 \end{longtable}
 
@@ -900,8 +864,7 @@ lengthy & /10/ & /\textipa{"leNT.i}/\\
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{23/09/2021} & \cellcolor{gray!6}{Prepare a reaction to the article “A dark consensus“} & \cellcolor{gray!6}{6 days}\\
-29/11/2021 & Rendre l'abstract rédigé en anglais du mémoire & 73 days\\
+\cellcolor{gray!6}{29/11/2021} & \cellcolor{gray!6}{Rendre l'abstract rédigé en anglais du mémoire} & \cellcolor{gray!6}{69 days}\\
 \bottomrule
 \end{longtable}
 
