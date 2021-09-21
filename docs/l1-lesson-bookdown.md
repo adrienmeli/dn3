@@ -125,15 +125,6 @@ aller à l'étranger & to go abroad\\
 
 
 
-## Do you do an extracurricular activity?
-
-
-
- 
-
-
-
-
 
 
 
