@@ -2,7 +2,7 @@
 title: "DNMADE Year 3 Lessons"
 subtitle: "École Estienne"
 author: "Adrien Méli"
-date: "September 21, 2021"
+date: "September 22, 2021"
 bibliography: /home/adrien/github/dotfiles/tex/biblio.bib
 biblio-style: "apalike"
 link-citations: yes
