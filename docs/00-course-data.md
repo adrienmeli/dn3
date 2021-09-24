@@ -864,9 +864,9 @@ lengthy & /10/ & /\textipa{"leNT.i}/\\
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{24/09/2021} & \cellcolor{gray!6}{DN3Créa : Préparer la présentation orale des résultats de sondage} & \cellcolor{gray!6}{2 days}\\
-28/09/2021 & DN3Ang2 : Préparer la présentation orale des résultats de sondage & 6 days\\
-\cellcolor{gray!6}{29/11/2021} & \cellcolor{gray!6}{Rendre l'abstract rédigé en anglais du mémoire} & \cellcolor{gray!6}{68 days}\\
+\cellcolor{gray!6}{24/09/2021} & \cellcolor{gray!6}{DN3Créa : Préparer la présentation orale des résultats de sondage} & \cellcolor{gray!6}{0 days}\\
+28/09/2021 & DN3Ang2 : Préparer la présentation orale des résultats de sondage & 4 days\\
+\cellcolor{gray!6}{29/11/2021} & \cellcolor{gray!6}{Rendre l'abstract rédigé en anglais du mémoire} & \cellcolor{gray!6}{66 days}\\
 \bottomrule
 \end{longtable}
 
