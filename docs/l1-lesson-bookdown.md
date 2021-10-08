@@ -55,13 +55,13 @@ Niveau visé : **B2**
 
 
 
-\begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
+\begin{longtable}{>{\raggedright\arraybackslash}p{3cm}>{\raggedright\arraybackslash}p{13cm}}
 \toprule
-Échéances & Description & Jours restants\\
+Échéances & Instructions\\
 \midrule
-\cellcolor{gray!6}{24/09/2021} & \cellcolor{gray!6}{DN3Créa : Préparer la présentation orale des résultats de sondage} & \cellcolor{gray!6}{0 days}\\
-28/09/2021 & DN3Ang2 : Préparer la présentation orale des résultats de sondage & 4 days\\
-\cellcolor{gray!6}{29/11/2021} & \cellcolor{gray!6}{Rendre l'abstract rédigé en anglais du mémoire} & \cellcolor{gray!6}{66 days}\\
+\cellcolor{gray!6}{24/09/2021} & \cellcolor{gray!6}{DN3Créa : Préparer la présentation orale des résultats de sondage}\\
+28/09/2021 & DN3Ang2 : Préparer la présentation orale des résultats de sondage\\
+\cellcolor{gray!6}{29/11/2021} & \cellcolor{gray!6}{Rendre l'abstract rédigé en anglais du mémoire}\\
 \bottomrule
 \end{longtable}
 

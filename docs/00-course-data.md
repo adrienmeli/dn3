@@ -435,6 +435,40 @@ une entreprise & a company\\
 jusqu'à maintenant & so far\\
 \cellcolor{gray!6}{aller à l'étranger} & \cellcolor{gray!6}{to go abroad}\\
 être indécis & to sit on a fence\\
+\cellcolor{gray!6}{un but (p...)} & \cellcolor{gray!6}{a purpose}\\
+\addlinespace
+un résumé & a summary\\
+\cellcolor{gray!6}{se concentrer sur} & \cellcolor{gray!6}{to focus on}\\
+viser à, avoir pour but de & to aim to\\
+\cellcolor{gray!6}{dès le départ} & \cellcolor{gray!6}{right off the bat}\\
+dans quelle mesure & to what extent\\
+\addlinespace
+\cellcolor{gray!6}{mettre à nu} & \cellcolor{gray!6}{to lay bare}\\
+les résultats & the findings\\
+\cellcolor{gray!6}{un moyen de} & \cellcolor{gray!6}{a means to}\\
+un résultat (o...) & an outcome\\
+\cellcolor{gray!6}{une tendance} & \cellcolor{gray!6}{a trend}\\
+\addlinespace
+aborder un problème & to address an issue\\
+\cellcolor{gray!6}{exécution, mise en œuvre} & \cellcolor{gray!6}{implementation}\\
+un échantillon & a sample\\
+\cellcolor{gray!6}{accomplir, réaliser} & \cellcolor{gray!6}{to carry out}\\
+inattendu & unexpected\\
+\addlinespace
+\cellcolor{gray!6}{attirer} & \cellcolor{gray!6}{to pull in}\\
+déclarer & to state\\
+\cellcolor{gray!6}{un plan de mesures} & \cellcolor{gray!6}{a scheme}\\
+faire l'éloge de & to praise\\
+\cellcolor{gray!6}{se moquer de} & \cellcolor{gray!6}{to poke fun at}\\
+\addlinespace
+inclure & to comprise\\
+\cellcolor{gray!6}{en apparence} & \cellcolor{gray!6}{seemingly}\\
+accueillir, héberger & to host\\
+\cellcolor{gray!6}{se mettre en route, chercher à} & \cellcolor{gray!6}{to set out}\\
+une recette & a recipe\\
+\addlinespace
+\cellcolor{gray!6}{à l'intérieur de} & \cellcolor{gray!6}{within}\\
+attacher, fermer & to fasten\\
 \bottomrule
 \end{longtable}
 
@@ -624,6 +658,18 @@ Fastback binding & uses a cloth or paper strip wrapped around the spine of the p
 Side-stitch binding & combines all the signatures and the cover and stitches them together with staples on the outside of the book cover.\\
 \cellcolor{gray!6}{Perfect binding} & \cellcolor{gray!6}{gathers all the signatures together. The spine is then ground to create a fl at edge, and a paper cover is glued around the spine.}\\
 Lay-flat binding & gathers all the signatures together and grinds the spine as in perfect binding. Th e cover is then glued to the book at each side of the spine, which allows the pages of the book to lay flat when opened.\\
+\cellcolor{gray!6}{a scheme} & \cellcolor{gray!6}{an officially organized plan or system}\\
+to poke fun at sb & to make someone seem stupid by making jokes about them or laughing unkindly\\
+\addlinespace
+\cellcolor{gray!6}{to praise} & \cellcolor{gray!6}{to express admiration or approval of the achievements or characteristics of a person or thing}\\
+to comprise stg & to have things or people as parts or members, to consist of stg\\
+\cellcolor{gray!6}{to set out} & \cellcolor{gray!6}{to start an activity with a particular aim}\\
+seemingly & appearing to be something, especially when this is not true\\
+\cellcolor{gray!6}{fat} & \cellcolor{gray!6}{the substance under the skin of humans and animals that stores energy and keeps them warm}\\
+\addlinespace
+within & inside or not further than an area or period of time\\
+\cellcolor{gray!6}{to host} & \cellcolor{gray!6}{to provide the space and other things necessary for a special event}\\
+to fasten & to (cause something to) become firmly fixed together, or in position, or closed\\
 \bottomrule
 \end{longtable}
 
@@ -686,6 +732,14 @@ Vantablack est utilisé par Anish Kapoor depuis 2014. & VB has been used by Kapo
 \addlinespace
 \cellcolor{gray!6}{Depuis mon enfance, j'ai toujours aimé la couleur.} & \cellcolor{gray!6}{Ever since I was a child, I've always loved colours.}\\
 La forme importe plus que la couleur & Shape matters more than colour\\
+\cellcolor{gray!6}{Voilà trois mois que je réfléchis à ce projet.} & \cellcolor{gray!6}{I’ve been thinking about this project for three months.}\\
+Les résultats fournissent aux concepteurs graphiques des conseils supplémentaires. & The findings provide designers with additional advice.\\
+\cellcolor{gray!6}{L’étude cherche à déterminer dans quelle mesure les pratiques actuelles sont durables et écologiques.} & \cellcolor{gray!6}{The survey investigates how green and sustainable the current procedures are.}\\
+\addlinespace
+Les professionnels que nous avons interrogés disent tous que leurs clients attachent beaucoup d’importance au développement durable. & The professionals we have interviewed all say their customers value sustainability.\\
+\cellcolor{gray!6}{Le problème que cet article aborde m'intéresse vivement} & \cellcolor{gray!6}{I'm highly interested in the issue this article addresses.}\\
+Si j'avais su, j'aurais pris le temps de développer mes compétences artistiques & If I had known, I would have taken the time to hone my artistic skills.\\
+\cellcolor{gray!6}{De nombreux graphistes se sont engagés à promouvoir le développement durable} & \cellcolor{gray!6}{Many graphic designers are committed to promoting sustainability.}\\
 \bottomrule
 \end{longtable}
 
@@ -852,6 +906,28 @@ receive & /01/ & /\textipa{ri."si:v}/\\
 \cellcolor{gray!6}{schedule} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"Sed.ju:l}/}\\
 lengthy & /10/ & /\textipa{"leNT.i}/\\
 \cellcolor{gray!6}{signature} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"sIg.n@tS.@}/}\\
+summary & /100/ & /\textipa{"s2m.@r.i}/\\
+\addlinespace
+\cellcolor{gray!6}{method} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"meT.@d}/}\\
+yield & /1/ & /\textipa{ji:@ld}/\\
+\cellcolor{gray!6}{squirrel} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"skwIr.@l}/}\\
+result & /01/ & /\textipa{ri."z2lt}/\\
+\cellcolor{gray!6}{outcome} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"aUt.k2m}/}\\
+\addlinespace
+trend & /1/ & /\textipa{trend}/\\
+\cellcolor{gray!6}{approach} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."pr@UtS}/}\\
+scheme & /1/ & /\textipa{ski:m}/\\
+\cellcolor{gray!6}{level} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"lev.@l}/}\\
+both & /1/ & /\textipa{b@UT}/\\
+\addlinespace
+\cellcolor{gray!6}{recipe} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"res.@p.i}/}\\
+period & /100/ & /\textipa{"pI@r.i.@d}/\\
+\cellcolor{gray!6}{area} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"e@r.i.@}/}\\
+logo & /10/ & /\textipa{"l@Ug.@U}/\\
+\cellcolor{gray!6}{within} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{wID."In}/}\\
+\addlinespace
+status & /10/ & /\textipa{"steIt.@s}/\\
+\cellcolor{gray!6}{pudding} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pUd.IN}/}\\
 \bottomrule
 \end{longtable}
 
@@ -860,13 +936,13 @@ lengthy & /10/ & /\textipa{"leNT.i}/\\
 ##  Échéances 
 
 
-\begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
+\begin{longtable}{>{\raggedright\arraybackslash}p{3cm}>{\raggedright\arraybackslash}p{13cm}}
 \toprule
-Échéances & Description & Jours restants\\
+Échéances & Instructions\\
 \midrule
-\cellcolor{gray!6}{24/09/2021} & \cellcolor{gray!6}{DN3Créa : Préparer la présentation orale des résultats de sondage} & \cellcolor{gray!6}{0 days}\\
-28/09/2021 & DN3Ang2 : Préparer la présentation orale des résultats de sondage & 4 days\\
-\cellcolor{gray!6}{29/11/2021} & \cellcolor{gray!6}{Rendre l'abstract rédigé en anglais du mémoire} & \cellcolor{gray!6}{66 days}\\
+\cellcolor{gray!6}{24/09/2021} & \cellcolor{gray!6}{DN3Créa : Préparer la présentation orale des résultats de sondage}\\
+28/09/2021 & DN3Ang2 : Préparer la présentation orale des résultats de sondage\\
+\cellcolor{gray!6}{29/11/2021} & \cellcolor{gray!6}{Rendre l'abstract rédigé en anglais du mémoire}\\
 \bottomrule
 \end{longtable}
 
