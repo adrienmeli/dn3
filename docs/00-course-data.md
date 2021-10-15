@@ -469,6 +469,17 @@ une recette & a recipe\\
 \addlinespace
 \cellcolor{gray!6}{à l'intérieur de} & \cellcolor{gray!6}{within}\\
 attacher, fermer & to fasten\\
+\cellcolor{gray!6}{un vendeur au détail} & \cellcolor{gray!6}{a retailer}\\
+pouvoir s'acheter qqch & to afford something\\
+\cellcolor{gray!6}{abandonner} & \cellcolor{gray!6}{to give up}\\
+\addlinespace
+améliorer, faire des progrès & to improve\\
+\cellcolor{gray!6}{rendre un hommage} & \cellcolor{gray!6}{to pay a tribute}\\
+un vif désir & a compulsion\\
+\cellcolor{gray!6}{fierté, orgueil} & \cellcolor{gray!6}{pride}\\
+du mobilier, des meubles & furniture\\
+\addlinespace
+\cellcolor{gray!6}{rester, demeurer} & \cellcolor{gray!6}{to remain}\\
 \bottomrule
 \end{longtable}
 
@@ -670,6 +681,18 @@ seemingly & appearing to be something, especially when this is not true\\
 within & inside or not further than an area or period of time\\
 \cellcolor{gray!6}{to host} & \cellcolor{gray!6}{to provide the space and other things necessary for a special event}\\
 to fasten & to (cause something to) become firmly fixed together, or in position, or closed\\
+\cellcolor{gray!6}{a hodgepodge} & \cellcolor{gray!6}{a heterogeneous mixture}\\
+a retailer & someone who sells in small quantities directly to the consumer\\
+\addlinespace
+\cellcolor{gray!6}{pride} & \cellcolor{gray!6}{a reasonable or justifiable self-respect}\\
+to afford & to be able to pay\\
+\cellcolor{gray!6}{to give up} & \cellcolor{gray!6}{to stop trying to do something before you have finished}\\
+a parlour & a room for customers usually of firms providing particular services\\
+\cellcolor{gray!6}{a compulsion} & \cellcolor{gray!6}{a strong feeling that you must do something}\\
+\addlinespace
+to improve & to get or make better\\
+\cellcolor{gray!6}{a tribute} & \cellcolor{gray!6}{something that is done to honor somebody}\\
+a powerhouse & a country, organization, or person with a lot of influence\\
 \bottomrule
 \end{longtable}
 
@@ -740,6 +763,11 @@ Les professionnels que nous avons interrogés disent tous que leurs clients atta
 \cellcolor{gray!6}{Le problème que cet article aborde m'intéresse vivement} & \cellcolor{gray!6}{I'm highly interested in the issue this article addresses.}\\
 Si j'avais su, j'aurais pris le temps de développer mes compétences artistiques & If I had known, I would have taken the time to hone my artistic skills.\\
 \cellcolor{gray!6}{De nombreux graphistes se sont engagés à promouvoir le développement durable} & \cellcolor{gray!6}{Many graphic designers are committed to promoting sustainability.}\\
+Sur quoi travailles-tu en ce moment? & What are you working on these days?\\
+\addlinespace
+\cellcolor{gray!6}{Je finis un projet sur lequel je travaille depuis deux mois.} & \cellcolor{gray!6}{I am finishing a project I have been working on for two months.}\\
+Quelles sont tes échéances ? & What are your deadlines?\\
+\cellcolor{gray!6}{Je dois finir d'ici la fin de la semaine.} & \cellcolor{gray!6}{I must finish by the end of the week.}\\
 \bottomrule
 \end{longtable}
 
@@ -928,6 +956,15 @@ logo & /10/ & /\textipa{"l@Ug.@U}/\\
 \addlinespace
 status & /10/ & /\textipa{"steIt.@s}/\\
 \cellcolor{gray!6}{pudding} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pUd.IN}/}\\
+heart & /1/ & /\textipa{hA:t}/\\
+\cellcolor{gray!6}{range} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{reIndZ}/}\\
+afford & /01/ & /\textipa{@."fO:d}/\\
+\addlinespace
+\cellcolor{gray!6}{product} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr6d.2kt}/}\\
+retailer & /100/ & /\textipa{"ri:.teI@l.@}/\\
+\cellcolor{gray!6}{improve} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{Im."pru:v}/}\\
+visionary & /1000/ & /\textipa{"vIZ.@n.@r.i}/\\
+\cellcolor{gray!6}{different} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dIf.r@nt}/}\\
 \bottomrule
 \end{longtable}
 
