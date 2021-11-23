@@ -815,6 +815,10 @@ J'ai déjà contacté plus de dix entreprises depuis septembre. & I've alreay co
 J'aimerais attirer votre attention sur la raffinement des illustrations. & I would like to draw your attention to the exquisiteness of the illustrations.\\
 \cellcolor{gray!6}{La mise en page vise à mettre le texte en valeur.} & \cellcolor{gray!6}{The layout aims at enhance the text.}\\
 Même le dos du livre présente des qualités esthétiques dignes d'être mentionnées. & Even the spine of the book features aesthetic qualities that are worth mentioning.\\
+\cellcolor{gray!6}{J'ai choisi cet article parce que la même chose m'est arrivée.} & \cellcolor{gray!6}{I chose this article because the same thing (has) happened to me.}\\
+Voilà une aventure dont j'aurais bien fait l'expérience. & This is an adventure I would have loved to experience.\\
+\addlinespace
+\cellcolor{gray!6}{Si mon projet se concrétise, j'irai travailler à l'étranger.} & \cellcolor{gray!6}{If my project goes ahead, I'll go and work abroad.}\\
 \bottomrule
 \end{longtable}
 
@@ -823,218 +827,212 @@ Même le dos du livre présente des qualités esthétiques dignes d'être mentio
 ##  Prononciation 
 
 
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{about}\\
-accurate\\
-\cellcolor{gray!6}{although}\\
-bosom\\
-\cellcolor{gray!6}{breath}\\
+\cellcolor{gray!6}{about} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."baUt}/}\\
+accurate & /100/ & /\textipa{"\ae k.j@r.@t}/\\
+\cellcolor{gray!6}{although} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{O:l."D@U}/}\\
+bosom & /10/ & /\textipa{"bUz.@m}/\\
+\cellcolor{gray!6}{breath} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{breT}/}\\
 \addlinespace
-budgetary\\
-\cellcolor{gray!6}{canvas}\\
-commune\\
-\cellcolor{gray!6}{contribute}\\
-country\\
+budgetary & /1000/ & /\textipa{"b2dZ.It.@r.i}/\\
+\cellcolor{gray!6}{canvas} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k\ae n.v@s}/}\\
+commune & /01/ & /\textipa{k@."mju:n}/\\
+\cellcolor{gray!6}{contribute} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{k@n."trIb.ju:t}/}\\
+country & /10/ & /\textipa{"k2ntr.i}/\\
 \addlinespace
-\cellcolor{gray!6}{crouch}\\
-domain\\
-\cellcolor{gray!6}{drown}\\
-elude\\
-\cellcolor{gray!6}{event}\\
+\cellcolor{gray!6}{crouch} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{kraUtS}/}\\
+domain & /01/ & /\textipa{d@U."meIn}/\\
+\cellcolor{gray!6}{drown} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{draUn}/}\\
+elude & /01/ & /\textipa{I."lu:d}/\\
+\cellcolor{gray!6}{event} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{I."vent}/}\\
 \addlinespace
-eventually\\
-\cellcolor{gray!6}{figure}\\
-fundamental\\
-\cellcolor{gray!6}{furniture}\\
-general\\
+eventually & /01000/ & /\textipa{I."ventS.u.@l.i}/\\
+\cellcolor{gray!6}{figure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"fIg.@}/}\\
+fundamental & /2010/ & /\textipa{""f2nd.@."ment.@l}/\\
+\cellcolor{gray!6}{furniture} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"f3:n.ItS.@}/}\\
+general & /100/ & /\textipa{"dZen.@r.@l}/\\
 \addlinespace
-\cellcolor{gray!6}{generic}\\
-hierarchy\\
-\cellcolor{gray!6}{identity}\\
-lurid\\
-\cellcolor{gray!6}{manufacture}\\
+\cellcolor{gray!6}{generic} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{dZ@."ner.Ik}/}\\
+hierarchy & /100/ & /\textipa{"haI@r.A:k.i}/\\
+\cellcolor{gray!6}{identity} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{aI."dent.@t.i}/}\\
+lurid & /10/ & /\textipa{"ljU@r.Id}/\\
+\cellcolor{gray!6}{manufacture} & \cellcolor{gray!6}{/2010/} & \cellcolor{gray!6}{/\textipa{""m\ae n.ju."f\ae k.tS@}/}\\
 \addlinespace
-mayor\\
-\cellcolor{gray!6}{measure}\\
-metaphor\\
-\cellcolor{gray!6}{natural}\\
-nuance\\
+mayor & /1/ & /\textipa{me@}/\\
+\cellcolor{gray!6}{measure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"meZ.@}/}\\
+metaphor & /100/ & /\textipa{"met.@f.@}/\\
+\cellcolor{gray!6}{natural} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"n\ae tS.@r.@l}/}\\
+nuance & /10/ & /\textipa{"nju:.A:ns}/\\
 \addlinespace
-\cellcolor{gray!6}{professional}\\
-purpose\\
-\cellcolor{gray!6}{rhythm}\\
-rough\\
-\cellcolor{gray!6}{table}\\
+\cellcolor{gray!6}{professional} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{pr@."feS.@n.@l}/}\\
+purpose & /10/ & /\textipa{"p3:p.@s}/\\
+\cellcolor{gray!6}{rhythm} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"rID.@m}/}\\
+rough & /1/ & /\textipa{r2f}/\\
+\cellcolor{gray!6}{table} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"teIb.@l}/}\\
 \addlinespace
-theme\\
-\cellcolor{gray!6}{thought}\\
-through\\
-\cellcolor{gray!6}{treatise}\\
-virtue\\
+theme & /1/ & /\textipa{Ti:m}/\\
+\cellcolor{gray!6}{thought} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{TO:t}/}\\
+through & /1/ & /\textipa{Tru:}/\\
+\cellcolor{gray!6}{treatise} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"tri:t.Iz}/}\\
+virtue & /10/ & /\textipa{"v3:tS.u:}/\\
 \addlinespace
-\cellcolor{gray!6}{sheet}\\
-parable\\
-\cellcolor{gray!6}{carnage}\\
-widen\\
-\cellcolor{gray!6}{pervasive}\\
+\cellcolor{gray!6}{sheet} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Si:t}/}\\
+parable & /100/ & /\textipa{"p\ae r.@b.@l}/\\
+\cellcolor{gray!6}{carnage} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"kA:n.IdZ}/}\\
+widen & /10/ & /\textipa{"waId.@n}/\\
+\cellcolor{gray!6}{pervasive} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{p@."veIs.Iv}/}\\
 \addlinespace
-cruel\\
-\cellcolor{gray!6}{sear}\\
-criticism\\
-\cellcolor{gray!6}{aesthetic}\\
-parallel\\
+cruel & /10/ & /\textipa{"kru:.@l}/\\
+\cellcolor{gray!6}{sear} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{sI@}/}\\
+criticism & /1020/ & /\textipa{"krIt.I.""sIz.@m}/\\
+\cellcolor{gray!6}{aesthetic} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{i:s."Tet.Ik}/}\\
+parallel & /100/ & /\textipa{"p\ae r.@.lel}/\\
 \addlinespace
-\cellcolor{gray!6}{bald}\\
-thick\\
-\cellcolor{gray!6}{typical}\\
-endeavor\\
-\cellcolor{gray!6}{hideous}\\
+\cellcolor{gray!6}{bald} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{bO:ld}/}\\
+thick & /1/ & /\textipa{TIk}/\\
+\cellcolor{gray!6}{typical} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"tIp.Ik.@l}/}\\
+endeavor & /010/ & /\textipa{In."dev.@}/\\
+\cellcolor{gray!6}{hideous} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"hId.i.@s}/}\\
 \addlinespace
-border\\
-\cellcolor{gray!6}{outlaw}\\
-slavery\\
-\cellcolor{gray!6}{colony}\\
-kernel\\
+border & /10/ & /\textipa{"bO:d.@}/\\
+\cellcolor{gray!6}{outlaw} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"aUt.lO:}/}\\
+slavery & /100/ & /\textipa{"sleIv.@r.i}/\\
+\cellcolor{gray!6}{colony} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k6l.@n.i}/}\\
+kernel & /10/ & /\textipa{"k3:n.@l}/\\
 \addlinespace
-\cellcolor{gray!6}{nature}\\
-rehearsal\\
-\cellcolor{gray!6}{echo}\\
-warehouse\\
-\cellcolor{gray!6}{proposal}\\
+\cellcolor{gray!6}{nature} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"neItS.@}/}\\
+rehearsal & /010/ & /\textipa{ri."h3:s.@l}/\\
+\cellcolor{gray!6}{echo} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ek.@U}/}\\
+warehouse & /10/ & /\textipa{"we@.haUs}/\\
+\cellcolor{gray!6}{proposal} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{pr@."p@Uz.@l}/}\\
 \addlinespace
-skew\\
-\cellcolor{gray!6}{scrutiny}\\
-lavish\\
-\cellcolor{gray!6}{enquiry}\\
-crowd\\
+skew & /1/ & /\textipa{skju:}/\\
+\cellcolor{gray!6}{scrutiny} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"skru:t.In.i}/}\\
+lavish & /10/ & /\textipa{"l\ae v.IS}/\\
+\cellcolor{gray!6}{enquiry} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{In."kwaI.@r.i}/}\\
+crowd & /1/ & /\textipa{kraUd}/\\
 \addlinespace
-\cellcolor{gray!6}{opinion}\\
-critic\\
-\cellcolor{gray!6}{marriage}\\
-volume\\
-\cellcolor{gray!6}{history}\\
+\cellcolor{gray!6}{opinion} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@."pIn.j@n}/}\\
+critic & /10/ & /\textipa{"krIt.Ik}/\\
+\cellcolor{gray!6}{marriage} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"m\ae r.IdZ}/}\\
+volume & /10/ & /\textipa{"v6l.ju:m}/\\
+\cellcolor{gray!6}{history} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"hIs.tri}/}\\
 \addlinespace
-appreciative\\
-\cellcolor{gray!6}{plague}\\
-shelter\\
-\cellcolor{gray!6}{pour}\\
-parliament\\
+appreciative & /01000/ & /\textipa{@."pri:S.i.@t.Iv}/\\
+\cellcolor{gray!6}{plague} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{pleIg}/}\\
+shelter & /10/ & /\textipa{"Selt.@}/\\
+\cellcolor{gray!6}{pour} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{pO:}/}\\
+parliament & /100/ & /\textipa{"pA:l.@.m@nt}/\\
 \addlinespace
-\cellcolor{gray!6}{structure}\\
-medieval\\
-\cellcolor{gray!6}{reason}\\
-era\\
-\cellcolor{gray!6}{factory}\\
+\cellcolor{gray!6}{structure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"str2k.tS@}/}\\
+medieval & /2010/ & /\textipa{""med.i."i:v.@l}/\\
+\cellcolor{gray!6}{reason} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ri:z.@n}/}\\
+era & /10/ & /\textipa{"I@r.@}/\\
+\cellcolor{gray!6}{factory} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"f\ae k.tri}/}\\
 \addlinespace
-architecture\\
-\cellcolor{gray!6}{cheap}\\
-falsehood\\
-\cellcolor{gray!6}{fantasy}\\
-hefty\\
+architecture & /1000/ & /\textipa{"A:k.I.tek.tS@}/\\
+\cellcolor{gray!6}{cheap} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{tSi:p}/}\\
+falsehood & /10/ & /\textipa{"fO:ls.hUd}/\\
+\cellcolor{gray!6}{fantasy} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"f\ae nt.@s.i}/}\\
+hefty & /10/ & /\textipa{"heft.i}/\\
 \addlinespace
-\cellcolor{gray!6}{frame}\\
-enthusiastic\\
-\cellcolor{gray!6}{perceive}\\
-stance\\
-\cellcolor{gray!6}{polish}\\
+\cellcolor{gray!6}{frame} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{freIm}/}\\
+enthusiastic & /02010/ & /\textipa{In.""Tju:z.i."\ae st.Ik}/\\
+\cellcolor{gray!6}{perceive} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{p@."si:v}/}\\
+stance & /1/ & /\textipa{st\ae ns}/\\
+\cellcolor{gray!6}{polish} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"p6l.IS}/}\\
 \addlinespace
-item\\
-\cellcolor{gray!6}{journey}\\
-common\\
-\cellcolor{gray!6}{process}\\
-allow\\
+item & /10/ & /\textipa{"aIt.@m}/\\
+\cellcolor{gray!6}{journey} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dZ3:n.i}/}\\
+common & /10/ & /\textipa{"k6m.@n}/\\
+\cellcolor{gray!6}{process} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr@Us.es}/}\\
+allow & /01/ & /\textipa{@."laU}/\\
 \addlinespace
-\cellcolor{gray!6}{choose}\\
-average\\
-\cellcolor{gray!6}{study}\\
-attach\\
-\cellcolor{gray!6}{sequence}\\
+\cellcolor{gray!6}{choose} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{tSu:z}/}\\
+average & /100/ & /\textipa{"\ae v.@r.IdZ}/\\
+\cellcolor{gray!6}{study} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"st2d.i}/}\\
+attach & /01/ & /\textipa{@."t\ae tS}/\\
+\cellcolor{gray!6}{sequence} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"si:k.w@ns}/}\\
 \addlinespace
-template\\
-\cellcolor{gray!6}{isolate}\\
-approval\\
-\cellcolor{gray!6}{palate}\\
-cleanse\\
+template & /10/ & /\textipa{"tem.pleIt}/\\
+\cellcolor{gray!6}{isolate} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"aIs.@.leIt}/}\\
+approval & /010/ & /\textipa{@."pru:v.@l}/\\
+\cellcolor{gray!6}{palate} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"p\ae l.@t}/}\\
+cleanse & /1/ & /\textipa{klenz}/\\
 \addlinespace
-\cellcolor{gray!6}{focus}\\
-closure\\
-\cellcolor{gray!6}{analogous}\\
-habit\\
-\cellcolor{gray!6}{widow}\\
+\cellcolor{gray!6}{focus} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"f@Uk.@s}/}\\
+closure & /10/ & /\textipa{"kl@UZ.@}/\\
+\cellcolor{gray!6}{analogous} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{@."n\ae l.@g.@s}/}\\
+habit & /10/ & /\textipa{"h\ae b.It}/\\
+\cellcolor{gray!6}{widow} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"wId.@U}/}\\
 \addlinespace
-magazine\\
-\cellcolor{gray!6}{gradient}\\
-palette\\
-\cellcolor{gray!6}{height}\\
-visual\\
+magazine & /201/ & /\textipa{""m\ae g.@."zi:n}/\\
+\cellcolor{gray!6}{gradient} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"greId.i.@nt}/}\\
+palette & /10/ & /\textipa{"p\ae l.@t}/\\
+\cellcolor{gray!6}{height} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{haIt}/}\\
+visual & /100/ & /\textipa{"vIZ.u.@l}/\\
 \addlinespace
-\cellcolor{gray!6}{alignment}\\
-smooth\\
-\cellcolor{gray!6}{deadline}\\
-once\\
-\cellcolor{gray!6}{early}\\
+\cellcolor{gray!6}{alignment} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@."laIn.m@nt}/}\\
+smooth & /1/ & /\textipa{smu:D}/\\
+\cellcolor{gray!6}{deadline} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ded.laIn}/}\\
+once & /1/ & /\textipa{w2ns}/\\
+\cellcolor{gray!6}{early} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"3:l.i}/}\\
 \addlinespace
-receive\\
-\cellcolor{gray!6}{schedule}\\
-lengthy\\
-\cellcolor{gray!6}{signature}\\
-summary\\
+receive & /01/ & /\textipa{ri."si:v}/\\
+\cellcolor{gray!6}{schedule} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"Sed.ju:l}/}\\
+lengthy & /10/ & /\textipa{"leNT.i}/\\
+\cellcolor{gray!6}{signature} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"sIg.n@tS.@}/}\\
+summary & /100/ & /\textipa{"s2m.@r.i}/\\
 \addlinespace
-\cellcolor{gray!6}{method}\\
-yield\\
-\cellcolor{gray!6}{squirrel}\\
-result\\
-\cellcolor{gray!6}{outcome}\\
+\cellcolor{gray!6}{method} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"meT.@d}/}\\
+yield & /1/ & /\textipa{ji:@ld}/\\
+\cellcolor{gray!6}{squirrel} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"skwIr.@l}/}\\
+result & /01/ & /\textipa{ri."z2lt}/\\
+\cellcolor{gray!6}{outcome} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"aUt.k2m}/}\\
 \addlinespace
-trend\\
-\cellcolor{gray!6}{approach}\\
-scheme\\
-\cellcolor{gray!6}{level}\\
-both\\
+trend & /1/ & /\textipa{trend}/\\
+\cellcolor{gray!6}{approach} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."pr@UtS}/}\\
+scheme & /1/ & /\textipa{ski:m}/\\
+\cellcolor{gray!6}{level} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"lev.@l}/}\\
+both & /1/ & /\textipa{b@UT}/\\
 \addlinespace
-\cellcolor{gray!6}{recipe}\\
-period\\
-\cellcolor{gray!6}{area}\\
-logo\\
-\cellcolor{gray!6}{within}\\
+\cellcolor{gray!6}{recipe} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"res.@p.i}/}\\
+period & /100/ & /\textipa{"pI@r.i.@d}/\\
+\cellcolor{gray!6}{area} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"e@r.i.@}/}\\
+logo & /10/ & /\textipa{"l@Ug.@U}/\\
+\cellcolor{gray!6}{within} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{wID."In}/}\\
 \addlinespace
-status\\
-\cellcolor{gray!6}{pudding}\\
-heart\\
-\cellcolor{gray!6}{range}\\
-afford\\
+status & /10/ & /\textipa{"steIt.@s}/\\
+\cellcolor{gray!6}{pudding} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pUd.IN}/}\\
+heart & /1/ & /\textipa{hA:t}/\\
+\cellcolor{gray!6}{range} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{reIndZ}/}\\
+afford & /01/ & /\textipa{@."fO:d}/\\
 \addlinespace
-\cellcolor{gray!6}{product}\\
-retailer\\
-\cellcolor{gray!6}{improve}\\
-visionary\\
-\cellcolor{gray!6}{different}\\
+\cellcolor{gray!6}{product} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr6d.2kt}/}\\
+retailer & /100/ & /\textipa{"ri:.teI@l.@}/\\
+\cellcolor{gray!6}{improve} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{Im."pru:v}/}\\
+visionary & /1000/ & /\textipa{"vIZ.@n.@r.i}/\\
+\cellcolor{gray!6}{different} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dIf.r@nt}/}\\
 \addlinespace
-obituary\\
-\cellcolor{gray!6}{revival}\\
-flourish\\
-\cellcolor{gray!6}{intricate}\\
-lively\\
+obituary & /01000/ & /\textipa{@."bItS.u.@r.i}/\\
+\cellcolor{gray!6}{revival} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{ri."vaIv.@l}/}\\
+flourish & /10/ & /\textipa{"fl2r.IS}/\\
+\cellcolor{gray!6}{intricate} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"Intr.Ik.@t}/}\\
+lively & /10/ & /\textipa{"laIv.li}/\\
 \addlinespace
-\cellcolor{gray!6}{pleasure}\\
-author\\
-\cellcolor{gray!6}{entire}\\
-riot\\
-\cellcolor{gray!6}{placard}\\
+\cellcolor{gray!6}{pleasure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pleZ.@}/}\\
+author & /10/ & /\textipa{"O:T.@}/\\
+\cellcolor{gray!6}{entire} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{In."taI.@}/}\\
+riot & /10/ & /\textipa{"raI.@t}/\\
+\cellcolor{gray!6}{placard} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pl\ae k.A:d}/}\\
 \addlinespace
-casualty\\
-\cellcolor{gray!6}{digital}\\
+casualty & /1000/ & /\textipa{"k\ae Z.u.@l.ti}/\\
+\cellcolor{gray!6}{digital} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"dIdZ.It.@l}/}\\
 \bottomrule
-\end{longtable} 
-
----
-
-NULL
+\end{longtable}
 
 
 
